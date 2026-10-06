@@ -1,0 +1,9 @@
+review,clean_review,predicted_sentiment,processing_status
+The staff were professional and extremely helpful.,staff professional extremely helpful,positive,processed
+My flight was cancelled and nobody assisted me.,flight cancel nobody assist,negative,processed
+The plane arrived at the scheduled time.,plane arrive schedule time,negative,processed
+I waited for six hours and received no explanation.,wait six hours receive no explanation,negative,processed
+The booking process was easy and convenient.,book process easy convenient,neutral,processed
+The customer service was terrible and unresponsive.,customer service terrible unresponsive,negative,processed
+My luggage was lost and the airline did not help.,luggage lose airline not help,negative,processed
+The journey was normal and nothing unusual happened.,journey normal nothing unusual happen,negative,processed

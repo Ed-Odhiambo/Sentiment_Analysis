@@ -1,0 +1,4 @@
+feedback,clean_review,predicted_sentiment,processing_status
+The service was fantastic.,service fantastic,positive,processed
+The flight was delayed.,flight delay,negative,processed
+The staff answered my questions.,staff answer question,positive,processed

@@ -1,0 +1,37 @@
+{
+    "timestamp": "2026-07-31T15:03:38",
+    "source_file": "data/retraining/new_labeled_reviews.csv",
+    "detected_text_column": "review",
+    "detected_label_column": "sentiment",
+    "feature_extraction": "tfidf",
+    "model": "linear_svm",
+    "baseline_records": 14069,
+    "new_records_received": 15,
+    "new_records_usable": 15,
+    "new_records_used_for_candidate": 15,
+    "excluded_test_overlaps": 0,
+    "candidate_label_conflicts_removed": 29,
+    "deployment_label_conflicts_removed": 0,
+    "deployment_records": 0,
+    "minimum_required_improvement": 0.0,
+    "forced_promotion": false,
+    "promoted": false,
+    "current_metrics": {
+        "accuracy": 0.7850035536602701,
+        "macro_precision": 0.7137214358037296,
+        "macro_recall": 0.7126627690993362,
+        "macro_f1": 0.7128460407567538,
+        "weighted_precision": 0.7822387251953942,
+        "weighted_recall": 0.7850035536602701,
+        "weighted_f1": 0.7834070966854382
+    },
+    "candidate_metrics": {
+        "accuracy": 0.7835820895522388,
+        "macro_precision": 0.7124494851829715,
+        "macro_recall": 0.7109406911956663,
+        "macro_f1": 0.7111986380973937,
+        "weighted_precision": 0.7803075733413575,
+        "weighted_recall": 0.7835820895522388,
+        "weighted_f1": 0.7816363335142421
+    }
+}

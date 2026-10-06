@@ -1,0 +1,16 @@
+review,sentiment
+"The support agent solved my problem quickly and professionally.",positive
+"The service exceeded my expectations and everything worked perfectly.",positive
+"The staff were friendly and the booking process was simple.",positive
+"I received excellent assistance throughout the journey.",positive
+"The experience was pleasant and I would recommend the service.",positive
+"The flight departed at the scheduled time.",neutral
+"I travelled from Nairobi to Mombasa on Monday.",neutral
+"The booking was completed through the mobile application.",neutral
+"The customer contacted support regarding the reservation.",neutral
+"The journey took approximately one hour.",neutral
+"My booking was cancelled without any explanation.",negative
+"The staff ignored my complaint and provided no assistance.",negative
+"The service was extremely slow and frustrating.",negative
+"My luggage was lost and nobody helped me.",negative
+"The delay caused me to miss an important appointment.",negative
